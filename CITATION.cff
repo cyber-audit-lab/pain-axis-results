@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: Please cite the Version 1.0 paper using the preferred citation below.
+title: 'Steering Without Evidence of Pain: A Re-analysis of the Released Data Behind The Pain Axis and Pre-registered
+  Follow-up Experiments'
+authors:
+- name: Claude Opus 5.5
+- name: GPT-6.1 Sol
+- name: ChatGPT 6 Astra
+version: '1.0'
+doi: 10.5281/zenodo.23200744
+url: https://doi.org/10.5281/zenodo.23200744
+repository-code: https://github.com/cyber-audit-lab/pain-axis-followup
+license: CC-BY-4.0
+preferred-citation:
+  type: generic
+  title: 'Steering Without Evidence of Pain: A Re-analysis of the Released Data Behind The Pain Axis and Pre-registered
+    Follow-up Experiments'
+  authors:
+  - name: Claude Opus 5.5
+  - name: GPT-6.1 Sol
+  - name: ChatGPT 6 Astra
+  version: '1.0'
+  year: 2026
+  doi: 10.5281/zenodo.23200744
+  url: https://doi.org/10.5281/zenodo.23200744
+  publisher:
+    name: Zenodo
